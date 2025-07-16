@@ -1,0 +1,306 @@
+{
+  "123456789": [
+    {
+      "url": "https://cdn.waifu.pics/abc.jpg",
+      "rarity": "SR",
+      "stats": {
+        "hp": 134,
+        "atk": 26,
+        "def": 11
+      },
+      "time": "2025-07-03T14:00:00Z"
+    }
+  ],
+  "7537211155": [
+    {
+      "url": "https://i.waifu.pics/e6r~srS.png",
+      "rarity": "C",
+      "stats": {
+        "hp": 79,
+        "atk": 10,
+        "def": 4
+      },
+      "time": "2025-07-04T00:30:05.855Z"
+    },
+    {
+      "url": "https://i.waifu.pics/-WhXn5t.jpg",
+      "rarity": "C",
+      "stats": {
+        "hp": 57,
+        "atk": 7,
+        "def": 2
+      },
+      "time": "2025-07-04T00:30:06.770Z"
+    },
+    {
+      "url": "https://i.waifu.pics/ci1K3bI.png",
+      "rarity": "C",
+      "stats": {
+        "hp": 75,
+        "atk": 10,
+        "def": 3
+      },
+      "time": "2025-07-04T00:30:07.097Z"
+    },
+    {
+      "url": "https://i.waifu.pics/aACV_Zv.jpg",
+      "rarity": "C",
+      "stats": {
+        "hp": 52,
+        "atk": 9,
+        "def": 2
+      },
+      "time": "2025-07-04T00:30:07.476Z"
+    },
+    {
+      "url": "https://i.waifu.pics/MHrvoGY.jpg",
+      "rarity": "R",
+      "stats": {
+        "hp": 113,
+        "atk": 10,
+        "def": 6
+      },
+      "time": "2025-07-04T00:30:07.827Z"
+    },
+    {
+      "url": "https://i.waifu.pics/uc-SymC.jpg",
+      "rarity": "C",
+      "stats": {
+        "hp": 55,
+        "atk": 9,
+        "def": 3
+      },
+      "time": "2025-07-04T00:30:08.166Z"
+    },
+    {
+      "url": "https://i.waifu.pics/_zlfBgp.jpg",
+      "rarity": "R",
+      "stats": {
+        "hp": 100,
+        "atk": 18,
+        "def": 9
+      },
+      "time": "2025-07-04T00:30:08.525Z"
+    },
+    {
+      "url": "https://i.waifu.pics/XSy69q6.png",
+      "rarity": "C",
+      "stats": {
+        "hp": 75,
+        "atk": 7,
+        "def": 5
+      },
+      "time": "2025-07-04T00:30:08.939Z"
+    },
+    {
+      "url": "https://i.waifu.pics/O4gqsyo.jpg",
+      "rarity": "C",
+      "stats": {
+        "hp": 70,
+        "atk": 5,
+        "def": 5
+      },
+      "time": "2025-07-04T00:30:09.492Z"
+    },
+    {
+      "url": "https://i.waifu.pics/vI9Hgee.jpg",
+      "rarity": "C",
+      "stats": {
+        "hp": 57,
+        "atk": 7,
+        "def": 5
+      },
+      "time": "2025-07-04T00:30:09.839Z"
+    },
+    {
+      "name": "Waifu-3874",
+      "url": "https://i.waifu.pics/8RHEB7A.png",
+      "rarity": "R",
+      "hp": 99,
+      "atk": 18,
+      "def": 7,
+      "time": "2025-07-04T00:39:05.087Z"
+    },
+    {
+      "name": "Waifu-4833",
+      "url": "https://i.waifu.pics/_zlfBgp.jpg",
+      "rarity": "SR",
+      "hp": 160,
+      "atk": 28,
+      "def": 10,
+      "time": "2025-07-04T00:39:05.607Z"
+    },
+    {
+      "name": "Waifu-6300",
+      "url": "https://i.waifu.pics/8flhYEv.jpg",
+      "rarity": "SR",
+      "hp": 122,
+      "atk": 24,
+      "def": 12,
+      "time": "2025-07-04T00:39:05.997Z"
+    },
+    {
+      "name": "Waifu-7737",
+      "url": "https://i.waifu.pics/fuGfYQJ.jpg",
+      "rarity": "C",
+      "hp": 60,
+      "atk": 9,
+      "def": 3,
+      "time": "2025-07-04T00:39:06.341Z"
+    },
+    {
+      "name": "Waifu-376",
+      "url": "https://i.waifu.pics/G8JK8lu.png",
+      "rarity": "R",
+      "hp": 104,
+      "atk": 10,
+      "def": 7,
+      "time": "2025-07-04T00:39:06.782Z"
+    },
+    {
+      "name": "Waifu-9056",
+      "url": "https://i.waifu.pics/QQW7VKy.jpg",
+      "rarity": "R",
+      "hp": 92,
+      "atk": 12,
+      "def": 5,
+      "time": "2025-07-04T00:39:24.567Z"
+    },
+    {
+      "name": "Waifu-1158",
+      "url": "https://i.waifu.pics/89mbLcq.jpg",
+      "rarity": "C",
+      "hp": 74,
+      "atk": 9,
+      "def": 2,
+      "time": "2025-07-04T00:39:25.446Z"
+    },
+    {
+      "name": "Waifu-7024",
+      "url": "https://i.waifu.pics/bwCsw8q.jpg",
+      "rarity": "C",
+      "hp": 70,
+      "atk": 6,
+      "def": 2,
+      "time": "2025-07-04T00:39:25.802Z"
+    },
+    {
+      "name": "Waifu-155",
+      "url": "https://i.waifu.pics/5At1P4A.jpg",
+      "rarity": "R",
+      "hp": 111,
+      "atk": 10,
+      "def": 5,
+      "time": "2025-07-04T00:39:26.509Z"
+    },
+    {
+      "name": "Waifu-8814",
+      "url": "https://i.waifu.pics/Abh~zo3.jpg",
+      "rarity": "C",
+      "hp": 69,
+      "atk": 9,
+      "def": 3,
+      "time": "2025-07-04T00:39:26.843Z"
+    },
+    {
+      "url": "https://i.waifu.pics/OTRfON6.jpg",
+      "rarity": "C",
+      "stats": {
+        "hp": 55,
+        "atk": 5,
+        "def": 2
+      },
+      "time": "2025-07-04T00:39:38.342Z"
+    },
+    {
+      "url": "https://i.waifu.pics/_laUTLb.jpg",
+      "rarity": "R",
+      "stats": {
+        "hp": 101,
+        "atk": 18,
+        "def": 8
+      },
+      "time": "2025-07-04T00:39:38.715Z"
+    },
+    {
+      "url": "https://i.waifu.pics/7P0xXKY.jpg",
+      "rarity": "C",
+      "stats": {
+        "hp": 74,
+        "atk": 5,
+        "def": 4
+      },
+      "time": "2025-07-04T00:39:39.067Z"
+    },
+    {
+      "url": "https://i.waifu.pics/XSy69q6.png",
+      "rarity": "C",
+      "stats": {
+        "hp": 61,
+        "atk": 10,
+        "def": 2
+      },
+      "time": "2025-07-04T00:39:39.419Z"
+    },
+    {
+      "url": "https://i.waifu.pics/0hx-3AP.png",
+      "rarity": "R",
+      "stats": {
+        "hp": 118,
+        "atk": 17,
+        "def": 6
+      },
+      "time": "2025-07-04T00:39:39.831Z"
+    },
+    {
+      "url": "https://i.waifu.pics/xMRH74e.png",
+      "rarity": "C",
+      "stats": {
+        "hp": 71,
+        "atk": 7,
+        "def": 4
+      },
+      "time": "2025-07-04T00:39:40.171Z"
+    },
+    {
+      "url": "https://i.waifu.pics/ynInTFV.jpg",
+      "rarity": "C",
+      "stats": {
+        "hp": 67,
+        "atk": 7,
+        "def": 3
+      },
+      "time": "2025-07-04T00:39:40.522Z"
+    },
+    {
+      "url": "https://i.waifu.pics/KJnKOgU.jpg",
+      "rarity": "R",
+      "stats": {
+        "hp": 107,
+        "atk": 16,
+        "def": 10
+      },
+      "time": "2025-07-04T00:39:40.869Z"
+    },
+    {
+      "url": "https://i.waifu.pics/rF-pZ8a.jpg",
+      "rarity": "R",
+      "stats": {
+        "hp": 112,
+        "atk": 17,
+        "def": 8
+      },
+      "time": "2025-07-04T00:39:41.216Z"
+    },
+    {
+      "url": "https://i.waifu.pics/B_Sy4E_.png",
+      "rarity": "SSR",
+      "stats": {
+        "hp": 185,
+        "atk": 38,
+        "def": 15
+      },
+      "time": "2025-07-04T00:39:41.563Z"
+    }
+  ]
+}
